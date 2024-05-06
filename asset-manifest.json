@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Hemraj/static/css/main.bf538fe7.css",
-    "main.js": "/Hemraj/static/js/main.30ee71a3.js",
+    "main.js": "/Hemraj/static/js/main.63210f25.js",
     "static/media/HeroImage.jpg": "/Hemraj/static/media/HeroImage.c10120fd5961d99b9e6d.jpg",
     "index.html": "/Hemraj/index.html",
     "main.bf538fe7.css.map": "/Hemraj/static/css/main.bf538fe7.css.map",
-    "main.30ee71a3.js.map": "/Hemraj/static/js/main.30ee71a3.js.map"
+    "main.63210f25.js.map": "/Hemraj/static/js/main.63210f25.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.30ee71a3.js"
+    "static/js/main.63210f25.js"
   ]
 }
